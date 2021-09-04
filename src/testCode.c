@@ -21,6 +21,7 @@
 int main ()
 {
 	printf ("Hello World, I am Diane");
+	printf ("\nHere is another line");
 	return 0;
 }
 
