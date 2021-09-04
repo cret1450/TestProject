@@ -22,6 +22,7 @@ int main ()
 {
 	printf ("Hello World, I am Diane");
 	printf ("\nHere is another line");
+	printf ("\nAnother test line");
 	return 0;
 }
 
